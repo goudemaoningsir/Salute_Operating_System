@@ -1,0 +1,14 @@
+# 忽略.DS_Store文件
+.DS_Store
+
+# 忽略__MACOSX目录
+__MACOSX/
+
+# 忽略文件夹的元数据文件
+*/.metadata/
+
+# 忽略Thumbs.db文件（Windows系统生成的缩略图文件）
+Thumbs.db
+
+# 忽略桌面.ini文件（Windows系统生成的桌面配置文件）
+Desktop.ini
